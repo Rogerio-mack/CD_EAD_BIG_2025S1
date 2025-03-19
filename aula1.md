@@ -25,6 +25,8 @@
 * **Ferramentas**
 > **Apache AirFlow**, DataBricks, Azure Data Factory, AWS Glue, Astera... são alguns dos sistemas que ajudam a gerenciar e automatizar o fluxo de dados. Mas há ainda, muitas outras ferramentas específicas para apoio em cada etapa. Essas, implementam e **orquestram o fluxo** (ver questão 5).
 
+* [**CRISP DM e outros**](https://colab.research.google.com/github/Rogerio-mack/CD_EAD_BIG_2025S1/blob/main/standard_process_for_data_mining.ipynb)
+
 ### Questões AULA 1
 
 1. O que melhor explica o processamento de dados em streaming?
