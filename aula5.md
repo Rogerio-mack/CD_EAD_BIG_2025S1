@@ -9,8 +9,9 @@
 * **MapReduce**: Modelo de programação para processamento paralelo de dados.
 * **YARN (Yet Another Resource Negotiator)**: Gerenciador de recursos computacionais.
 
-## Processamento
 Acesse aqui um [complemento sobre Hadoop, Mapreduce etc.](https://colab.research.google.com/github/Rogerio-mack/CD_EAD_BIG_2025S1/blob/main/aula_5_complemento_Hadoop_etc.ipynb)
+
+## Processamento
 
 > *Em busca do formato e dados adequados para otimizar o desempenho e a eficácia das operações de análise...*
 
