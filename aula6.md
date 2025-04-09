@@ -1,6 +1,6 @@
 
 
-# Aula 6: GOVERNANÇA, MONITORAMENTO E SEGURANÇA DE DADOS EM BIG DATA
+# Aula 6: Governança, Monitoramento E Segurança De Dados Em Big Data
 
 ### **Conceitos Chave**
 | Tópico                            | Sumário                                                               |
