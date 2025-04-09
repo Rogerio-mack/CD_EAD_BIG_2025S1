@@ -2,9 +2,12 @@
 ```
 rogerio.oliveira@mackenzie.br
 ```
+### Encontro 2
 
-* [Aula 1](https://github.com/Rogerio-mack/CD_EAD_BIG_2025S1/blob/main/aula1.md) (*questões de revisão ao final*)
-* [Aula 2](https://github.com/Rogerio-mack/CD_EAD_BIG_2025S1/blob/main/aula2.md) (*questões de revisão ao final*)
+* [Aula 1](https://github.com/Rogerio-mack/CD_EAD_BIG_2025S1/blob/main/aula1.md)  
+* [Aula 2](https://github.com/Rogerio-mack/CD_EAD_BIG_2025S1/blob/main/aula2.md)   
+
+*Veja questões de revisão ao final das aulas.*
 
 ### Aula 3 (Questões de Revisão)
 
@@ -20,8 +23,9 @@ rogerio.oliveira@mackenzie.br
    Para cada um dos tipos de Bancos de Dados NoSQL, busque encontrar conjunto/cenário de dados mais apropriado para seu uso.
 > 4. Os Bancos de Dados NoSQL, são conhecidos por (em sua maioria) não atenderem as propriedades ACID. Por quê?  
 
-***Boa prova!***
+### Encontro 3
 
-<br>
+* [Aula 5](https://github.com/Rogerio-mack/CD_EAD_BIG_2025S1/blob/main/aula5.md)  
+* [Aula 6](https://github.com/Rogerio-mack/CD_EAD_BIG_2025S1/blob/main/aula6.md) 
 
-* *Google DataScience Trainning? Quem tem interesse?* 
+*Veja questões de revisão ao final das aulas.*
