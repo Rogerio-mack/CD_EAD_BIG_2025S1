@@ -31,7 +31,6 @@ Estes pilares são essenciais para garantir que as informações estejam protegi
 ### **Cenário** 
 *   **Ameaças cibernéticas estão em evolução constante!**.
 *   Plano de Ação para Segurança da Informação... **Pessoas, processos e tecnologia**.
-*   Security Development Lifecycle (SDL): Práticas para construir software mais seguro.
 
 ### **Exemplo de Segurança em Ecossistemas de Big Data** 
 *   IAM (Identity and Access Management): Serviço para conceder acesso granular a recursos.
