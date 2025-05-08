@@ -15,48 +15,18 @@ Estes pilares são essenciais para garantir que as informações estejam protegi
 <br>
 
 ### **Vulnerabilidades de Privacidade**
-*   Vulnerabilidade: Fraqueza em sistemas que pode ser explorada.
-*   Anonimização de dados: Técnica para minimizar problemas de privacidade.
-*   Criptografia: Cifrar a escrita para torná-la ilegível.
-*   Differential Privacy: Inserir dados sintéticos para proteger a privacidade.
-
-### **Controle de Acesso Inadequado**
-*   Controle de acesso: Evitar acessos não autorizados a dados sensíveis.
-*   Verificação de fator duplo: Mecanismo de segurança adicional (ex: confirmação via e-mail ou app).
+*   Anonimização de dados...
+*   **Criptografia**: Cifrar a escrita para torná-la ilegível.
+*   **Differential Privacy**: Inserir dados sintéticos para proteger a privacidade.
 
 ### **Ataques de Injeção**
 *   Ataques de injeção: Inserir código malicioso em dados processados por uma aplicação.
 *   SQL Injection: Exploração de vulnerabilidades em comandos SQL.
 *   Cross-Site Scripting (XSS): Injetar scripts maliciosos em páginas web.
 
-### Configurações de Segurança Padrão
-*   **Configurações padrão**: Sistemas com configurações conhecidas por hackers.
-*   Importância de personalização: Definir novas senhas e critérios de acesso mais seguros.
-
 ### **Escalabilidade das Soluções de Segurança**
 *   Escalabilidade: Capacidade de expandir sem comprometer integridade e confidencialidade.
 *   Medidas robustas: Segmentação de rede, autenticação e criptografia.
-
-### Proteção de Dados em Trânsito e em Repouso
-*   Dados em trânsito: Proteção durante a transferência.
-*   Dados em repouso: Proteção de dados armazenados.
-*   Túneis SSH e APIs: Protocolos para troca segura de arquivos.
-
-### Segurança em Ambientes Multi-Tenancy
-*   Multi-tenancy: Compartilhamento de hardware entre várias organizações.
-*   Garantia de segurança: Provedores de nuvem garantem segurança dos dados.
-
-### Integridade dos Dados
-*   Integridade: Proteção contra bloqueio, manipulação e vazamento de dados.
-*   Disaster Recovery Plan: Plano para restaurar a operação normal após incidentes.
-
-### Gerenciamento de Logs e Monitoramento
-*   Logs: Monitoramento para prevenção, detecção e resposta a ataques.
-*   Análise comportamental: Identificação de atividades anômalas por meio de IA.
-
-### Segurança de Dados Não-Estruturados
-*   Dados não-estruturados: Imagens, vídeos e textos que exigem atenção.
-*   Riscos: Alvos para malwares e ransomware.
 
 ### **Cenário** 
 *   **Ameaças cibernéticas estão em evolução constante!**.
@@ -71,7 +41,6 @@ Estes pilares são essenciais para garantir que as informações estejam protegi
 *   **DAST (Dynamic Analysis Security Testing):** Testes de Análise Dinâmica de Segurança.
 *   **SAST (Static Analysis Security Testing):** Testes de Segurança de Análise Estática.
 *   **SDL (Security Development Lifecycle):** Um conjunto de práticas que apoiam a segurança e os requisitos de compliance, ajudando a construir produtos de software mais seguros, reduzindo vulnerabilidades sistêmicas, bem como severidade dos ataques.
-
 
 #### **Perguntas**
 
