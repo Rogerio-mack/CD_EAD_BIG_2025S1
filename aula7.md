@@ -1,6 +1,6 @@
 # Aula 7 - Ameaças à Segurança em Ecossistemas de Big Data
 
-*   **Segurança da Informação**: Essencial para proteger dados sensíveis contra ciberataques, vazamentos e espionagem.
+**Segurança da Informação**: Essencial para proteger dados sensíveis contra ciberataques, vazamentos e espionagem.
 
 Os principais pilares da segurança da informação são:
 
@@ -12,7 +12,7 @@ Os principais pilares da segurança da informação são:
 
 Estes pilares são essenciais para garantir que as informações estejam protegidas, acessíveis, precisas e confiáveis. 
 
---
+<br>
 
 ### **Vulnerabilidades de Privacidade**
 *   Vulnerabilidade: Fraqueza em sistemas que pode ser explorada.
