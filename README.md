@@ -29,3 +29,11 @@ rogerio.oliveira@mackenzie.br
 * [Aula 6](https://github.com/Rogerio-mack/CD_EAD_BIG_2025S1/blob/main/aula6.md) 
 
 *Veja questões de revisão ao final das aulas.*
+
+### Encontro 4
+
+* [Aula 7](https://github.com/Rogerio-mack/CD_EAD_BIG_2025S1/blob/main/aula7.md)  
+* [Aula 8](https://github.com/Rogerio-mack/CD_EAD_BIG_2025S1/blob/main/aula8.md) 
+
+*Veja questões de revisão ao final das aulas.*
+
