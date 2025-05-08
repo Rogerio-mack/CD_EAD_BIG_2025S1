@@ -1,4 +1,4 @@
-# Aula 8 - Consumo e Produtificação de Dados em Big Data
+# Aula 8 - Produtificação de Dados em Big Data
 
 *   **Produto de dados:** Contêiner de dados independente que resolve um problema de negócios ou é monetizado.
 > *   (...) 
