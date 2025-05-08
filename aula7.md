@@ -4,11 +4,11 @@
 
 Os principais pilares da segurança da informação são:
 
-1. Confidencialidade: Garante que as informações sejam acessíveis apenas a pessoas autorizadas. 
-2. Integridade: Assegura que as informações sejam precisas, completas e não tenham sido alteradas ou corrompidas. 
-3. Disponibilidade: Garante que as informações estejam acessíveis e utilizáveis quando e onde forem necessárias. 
-4. Autenticidade: Confirma que as informações são originárias de uma fonte legítima e não foram falsificadas ou alteradas. 
-5. Legalidade: Assegura que a proteção das informações esteja em conformidade com as leis e regulamentações aplicáveis. 
+1. **Confidencialidade**: Garante que as informações sejam acessíveis apenas a pessoas autorizadas. 
+2. **Integridade**: Assegura que as informações sejam precisas, completas e não tenham sido alteradas ou corrompidas. 
+3. **Disponibilidade**: Garante que as informações estejam acessíveis e utilizáveis quando e onde forem necessárias. 
+4. **Autenticidade**: Confirma que as informações são originárias de uma fonte legítima e não foram falsificadas ou alteradas. 
+5. **Legalidade**: Assegura que a proteção das informações esteja em conformidade com as leis e regulamentações aplicáveis. 
 
 Estes pilares são essenciais para garantir que as informações estejam protegidas, acessíveis, precisas e confiáveis. 
 
@@ -73,7 +73,7 @@ Estes pilares são essenciais para garantir que as informações estejam protegi
 *   **SDL (Security Development Lifecycle):** Um conjunto de práticas que apoiam a segurança e os requisitos de compliance, ajudando a construir produtos de software mais seguros, reduzindo vulnerabilidades sistêmicas, bem como severidade dos ataques.
 
 
-## Perguntas e Respostas
+#### **Perguntas**
 
 1. Um provedor de nuvem pública compartilha recursos humanos e de hardware para organizações diferentes. Isso representa um risco? O que é o risco compartilhado em ambientes de nuvem?
 2. Ações do tipo definir requisitos de segurança, definir padrões de criptografia e executar pen-tests são consideradas em que tipo de plano? 
